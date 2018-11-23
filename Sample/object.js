@@ -4,7 +4,7 @@
 
 
 // var obj = new Object(); 는  var obj = {} ; 와 동일하다 
- 
+ // 중괄호 안에 넣는다 
  
  
 var obj = {};
